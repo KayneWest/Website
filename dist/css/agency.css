@@ -642,7 +642,7 @@ section h3.section-subheading {
 }
 
 .team-member .closing-text {
-    margin-top: 0;
+    text-transform: uppercase;
     font-size: 100px;
     font-weight: 700;
     line-height: 75px;
