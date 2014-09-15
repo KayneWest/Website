@@ -641,6 +641,14 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+.team-member .closing-text {
+    margin-top: 0;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 75px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 
 aside.clients img {
     margin: 50px auto;
