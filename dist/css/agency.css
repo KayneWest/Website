@@ -125,7 +125,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #FF0000;
+    color: #fff;
     background-color: #FF0000;
 }
 
@@ -135,7 +135,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #FF0000;
-    color: #FF0000;
+    color: #fff;
     background-color: #FF0000;
 }
 
