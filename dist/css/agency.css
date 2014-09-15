@@ -653,7 +653,8 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: #FF0000;
+    color: #bbb;
+    font-size: 50px;
 }
 
 section#contact .form-group {
