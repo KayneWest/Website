@@ -653,9 +653,13 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: #bbb;
-    font-size: 50px;
+    color: #fff;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
 
 section#contact .form-group {
     margin-bottom: 25px;
