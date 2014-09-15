@@ -647,7 +647,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(/team/machine-learning.jpg);
+    background-image: url(https://github.com/KayneWest/Website/blob/master/dist/img/team/machine-learning.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
